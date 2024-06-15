@@ -11,7 +11,7 @@ Modelo Local: Utiliza un modelo LLM almacenado localmente mediante el programa o
 ### Requisitos
 Python 3.10.
 
-Ollama.
+Ollama. Descargalo desde su web oficial : https://ollama.com/
 
 Git.
 
