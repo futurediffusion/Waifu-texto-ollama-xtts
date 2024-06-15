@@ -15,6 +15,8 @@ Ollama.
 
 Git.
 
+Minimo una grafica con 4 de VRAM
+
 # Instalación
 1. Clona el repositorio:
 
