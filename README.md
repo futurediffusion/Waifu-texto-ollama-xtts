@@ -29,7 +29,7 @@ git clone https://github.com/futurediffusion/Waifu-texto-ollama-xtts.git
 Esta consola se cerrara sola al terminar el proceso.
 
 3. elige la voz que quieras usar, solo necesitas un audio de 10 segundos formato wav, de preferencia que sea mono, y de 22050 hz para mayor velocidad, puedes editar tu audio de esta manera con un programa gratuito como audacity. 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
 <img src="https://i.imgur.com/YUQsYjM.png" alt="audacity" width="50%">
 De nombre colocale speaker y Luego guarda este archivo dentro de la ruta xtts-venv\Scripts\speakers 
 </div>
