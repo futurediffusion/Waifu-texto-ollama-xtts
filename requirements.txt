@@ -1,0 +1,11 @@
+argparse
+python-decouple
+emoji
+ollama
+pyttsx3
+requests
+pydub
+pyaudio
+pynput
+SpeechRecognition
+pygame
