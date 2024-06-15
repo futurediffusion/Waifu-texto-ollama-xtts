@@ -53,3 +53,9 @@ Sustituye NOMBREDETUMODELO por el nombre de el modelo LLM de ollama que tengas i
 7. Para mas diversion utiliza este programa junto a un modelo Vtuber con el programa vtube studio el cual es gratuito en steam.  Asegurate de configurar tu salida de audio de escritorio , en la configuracion de audio de el programa,  y en el parametro mouth open de el personaje. 
 
 
+# LINKS UTILES
+
+## Guia de instalacion de Ollama
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/psdU-CqFgcA?si=vEyQvHjoPeS6JOFj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
