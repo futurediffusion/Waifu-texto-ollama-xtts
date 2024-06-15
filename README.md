@@ -59,5 +59,9 @@ Sustituye NOMBREDETUMODELO por el nombre de el modelo LLM de ollama que tengas i
 
 [![Texto alternativo](https://i.imgur.com/JH0clgd.png)](https://www.youtube.com/watch?v=psdU-CqFgcA)
 
+## Guia de configuracion de personajes vtuber
+
+[![Texto alternativo](https://i.imgur.com/fnHBRE9.png)](https://www.youtube.com/watch?v=b6D94bRp9cc)
+
 
 
