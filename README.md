@@ -59,5 +59,5 @@ Sustituye NOMBREDETUMODELO por el nombre de el modelo LLM de ollama que tengas i
 
 [![Texto alternativo](https://i.imgur.com/JH0clgd.png)](https://www.youtube.com/watch?v=psdU-CqFgcA)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/psdU-CqFgcA?si=vEyQvHjoPeS6JOFj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
