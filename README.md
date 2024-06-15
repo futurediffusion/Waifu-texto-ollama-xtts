@@ -9,7 +9,7 @@ Salida de Voz: Convierte las respuestas generadas por el modelo en audio usando 
 Modelo Local: Utiliza un modelo LLM almacenado localmente mediante el programa ollama para garantizar la privacidad y reducir la latencia.
 
 ### Requisitos
-Python 3.10.
+Python 3.10. : https://www.python.org/downloads/release/python-3109/
 
 Ollama. Descargalo desde su web oficial : https://ollama.com/
 
@@ -30,7 +30,7 @@ git clone https://github.com/futurediffusion/Waifu-texto-ollama-xtts.git
 2. Ejecuta el archivo Xtts-fullinstall.bat , y espera que se instalen todas las dependencias necesarias para el funcionamiento de Xtts . 
 Esta consola se cerrara sola al terminar el proceso.
 
-3. elige la voz que quieras usar, solo necesitas un audio de 10 segundos formato wav, de preferencia que sea mono, y de 22050 hz para mayor velocidad, puedes editar tu audio de esta manera con un programa gratuito como audacity. 
+3. elige la voz que quieras usar, solo necesitas un audio de 10 segundos formato wav, de preferencia que sea mono, y de 22050 hz para mayor velocidad, puedes editar tu audio de esta manera con un programa gratuito como audacity.  https://www.audacityteam.org/
 <div style="display: flex; justify-content: center;">
 <img src="https://i.imgur.com/YUQsYjM.png" alt="audacity" width="50%">
 </div>
