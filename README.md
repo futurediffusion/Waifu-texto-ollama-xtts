@@ -13,7 +13,7 @@ Python 3.10.
 
 Ollama. Descargalo desde su web oficial : https://ollama.com/
 
-Git.
+Git. : https://git-scm.com/downloads
 
 Minimo una grafica con 4 de VRAM
 
