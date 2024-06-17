@@ -51,6 +51,8 @@ llm_model = ollama.chat(model='NOMBREDETUMODELO', messages=[
 
 Sustituye NOMBREDETUMODELO por el nombre de el modelo LLM de ollama que tengas instalado, y guarda el archivo. 
 
+Para crear un modelo con una personalidad customizada, mira mi video sobre ollama que dejara en la seccion de links utiles 
+
 6.  Ejecuta el archivo Run-texto.bat ,  Una vez abierto este instalara las dependencias necesarias , se conectara automaticamente con la api de Xtts . espera que aparezca el mensaje Por favor, ingrese el texto: y podras escribirle al modelo local. 
 
 7. Para mas diversion utiliza este programa junto a un modelo Vtuber con el programa vtube studio el cual es gratuito en steam.  Asegurate de configurar tu salida de audio de escritorio , en la configuracion de audio de el programa,  y en el parametro mouth open de el personaje. 
