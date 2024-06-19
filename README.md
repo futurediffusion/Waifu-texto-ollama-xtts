@@ -75,5 +75,11 @@ Para crear un modelo con una personalidad customizada, mira mi video sobre ollam
 
 [![Texto alternativo](https://i.imgur.com/fnHBRE9.png)](https://www.youtube.com/watch?v=b6D94bRp9cc)
 
+# Problemas
+### Si tienes problemas al momento de ejecutar los bat, intenta abrirlos con un bloc de notas, o notepad ++ y ejecuta los comandos del bat de manera manual dentro de el cmd. 
+### Siempre despues de que en el bat se activen los entornos virtuales, debes ejecutar los comandos siguientes dentro de esos entornos virtuales, (activarlos antes de ejecutar los comandos)
+
+
+
 
 
