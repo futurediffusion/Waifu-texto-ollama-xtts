@@ -61,7 +61,7 @@ Para crear un modelo con una personalidad customizada, mira mi video sobre ollam
 # LINKS UTILES
 
 ## Guia de instalacion de Ollama
-[![Texto alternativo](https://i.imgur.com/gz47IEa.png)](https://youtu.be/8zKrHNf9GxA)
+[![Texto alternativo](https://i.imgur.com/bYkVb9V.png)](https://youtu.be/8zKrHNf9GxA)
    
 
 [![Texto alternativo](https://i.imgur.com/JH0clgd.png)](https://www.youtube.com/watch?v=psdU-CqFgcA)
