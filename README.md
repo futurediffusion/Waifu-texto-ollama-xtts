@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/bCERKil.png" alt="audacity" width="50%">
 </div>
 # Waifu-texto-ollama-xtts
-### Un progreama  de python para interactuar por texto  con un modelo llm local mediante ollama con salida por voz con xtts
+### Un programa  de python para interactuar por texto  con un modelo llm local mediante ollama con salida por voz con xtts
 
 # Características
 Interacción por Texto: Permite enviar consultas de texto y recibir respuestas generadas por un modelo LLM.
