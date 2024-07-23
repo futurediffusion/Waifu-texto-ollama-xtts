@@ -41,9 +41,9 @@ Esta consola se cerrara sola al terminar el proceso.
 De nombre colocale speaker y Luego guarda este archivo dentro de la ruta xtts-venv\Scripts\speakers 
 
 
-5. Ejecutar el archivo xtts-Run.bat , se abrira una consola, espera a que aparezcan letras verdes, y manten esta consola abierta mientras utilices el programa. 
+4. Ejecutar el archivo xtts-Run.bat , se abrira una consola, espera a que aparezcan letras verdes, y manten esta consola abierta mientras utilices el programa. 
 
-6. abre el archivo texto.py , con segundo click y elige bloc de notas o notepad ++ 
+5. abre el archivo texto.py , con segundo click y elige bloc de notas o notepad ++ 
 Y en la linea numero 15
 ```
 llm_model = ollama.chat(model='NOMBREDETUMODELO', messages=[
