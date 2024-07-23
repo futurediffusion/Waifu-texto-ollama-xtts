@@ -9,3 +9,4 @@ pyaudio
 pynput
 SpeechRecognition
 pygame
+xtts-api-server
